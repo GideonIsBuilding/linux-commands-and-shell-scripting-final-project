@@ -12,4 +12,6 @@ As ABC INC’s most trusted linux developer, you have been tasked with creating 
 ## Objectives
 The objective of this lab is to incorporate much of the shell scripting you’ve learned over this course into a single script.
 You will schedule your shell script to run every 24 hours using crontab.
-TIP: If you’re unsure whether some of your code will work as wanted, you can try the command directly in the terminal - and even create your own test scripts!
+
+### TIP
+If you’re unsure whether some of your code will work as wanted, you can try the command directly in the terminal - and even create your own test scripts!
